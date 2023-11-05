@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465818427918",
+    "project_id": "thiran-9b08d",
+    "storage_bucket": "thiran-9b08d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465818427918:android:5f5a2d070bcc55abd1125f",
+        "android_client_info": {
+          "package_name": "com.example.task_thiran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy5Hu205Uk0P4iev-BdKaYOlhR6k0LkqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
